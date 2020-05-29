@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Testpage</title>
+<head>
+<body>
+<h1>Hi this is elon musk</h1>
+<p> This is the <b>paragraph</b> element cool</p>
+<a href="https://google.com" target="_blank" title="let's go to google">click me i'm a link!</a>om
+<p>my name is : <br>elon musk</p>
+<img src="forte.jpeg">
+</head>
+</body>
